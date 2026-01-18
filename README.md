@@ -140,3 +140,7 @@ Exercizes
 - Text: [20240702](https://github.com/mauropelucchi/unibg_dev_courses_2025/blob/main/exams/te20240702.pdf) Solution: [20240702](https://github.com/mauropelucchi/unibg_dev_courses_2025/blob/main/exams/20240702.cpp)
 - Text: [20240618](https://github.com/mauropelucchi/unibg_dev_courses_2025/blob/main/exams/te20240618.pdf) Solution: [20240618](https://github.com/mauropelucchi/unibg_dev_courses_2025/blob/main/exams/20240618.cpp)
 - Text: [20250115](https://github.com/mauropelucchi/unibg_dev_courses_2025/blob/main/exams/te20250115.pdf) Solution: [20250115](https://github.com/mauropelucchi/unibg_dev_courses_2025/blob/main/exams/20250115.cpp)
+- Text: [20250219](https://github.com/mauropelucchi/unibg_dev_courses_2025/blob/main/exams/te20250219.doc) Solution: [20250219](https://github.com/mauropelucchi/unibg_dev_courses_2025/blob/main/exams/te20250219.cpp)
+- Text: [20250626](https://github.com/mauropelucchi/unibg_dev_courses_2025/blob/main/exams/te20250626.doc) Solution: [20250626](https://github.com/mauropelucchi/unibg_dev_courses_2025/blob/main/exams/te20250626.cpp)
+- Text: [20250710](https://github.com/mauropelucchi/unibg_dev_courses_2025/blob/main/exams/te20250710.doc) Solution: [20250710](https://github.com/mauropelucchi/unibg_dev_courses_2025/blob/main/exams/te20250710.cpp)
+- Text: [20250920](https://github.com/mauropelucchi/unibg_dev_courses_2025/blob/main/exams/te20250920.doc) Solution: [20250920](https://github.com/mauropelucchi/unibg_dev_courses_2025/blob/main/exams/te20250920.cpp)
